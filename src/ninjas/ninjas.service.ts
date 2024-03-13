@@ -1,6 +1,5 @@
 import { Injectable } from "@nestjs/common";
 import { CreateNinjaDto } from "./dto/create-ninja.dto";
-import { UpdateUserDto } from "../users/dto/update-user.dto";
 import { UpdateNinjaDto } from "./dto/update-ninja.dto";
 
 @Injectable()

@@ -42,3 +42,17 @@ $ nest generate service service-name
 $ nest g s service-name
 ```
 
+## Generate Guard
+```bash
+$ nest generate guard guard-name
+# Or
+$ nest g gu guard-name
+```
+
+## Generate Middleware
+```bash
+$ nest generate middleware middleware-name
+# Or
+$ nest g mi middleware-name
+```
+
